@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /resources/
+Disallow: /items/
+Disallow: /system/
+Disallow: /category_icons/
+Disallow: /application/config/
+Disallow: /application/core/
+Disallow: /application/hooks/
+Disallow: /application/language/
+Disallow: /application/libraries/
+Disallow: /application/logs/
+Disallow: /application/models/
+Disallow: /application/controllers/
+Disallow: /application/third_party/
+Disallow: /application/cache/

@@ -1,0 +1,16 @@
+{
+  "short_name": "Pangisa",
+  "name": "Pangisa Uganda Limited",
+  "icons": [
+    {
+      "src": "https://pangisa.co.ug/resources/images/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/Pangisa/Index",
+  "background_color": "#fff",
+  "display": "standalone",
+  "scope": "/Pangisa/",
+  "theme_color": "#290930"
+}
